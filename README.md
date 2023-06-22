@@ -11,6 +11,4 @@ This project & all it's License & CopyRight Claims belongs to **Vishwajeet Mishr
 
 ## Preview
 
-
-                <img src="./Assets/Todo.png" alt="Preview" width="100">
              
